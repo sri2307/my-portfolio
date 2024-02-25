@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "develop",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"skill",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "hour",
+							"type": "Text"
+						}
+					],
+					[
+						"skill_color",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#40a3f5",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]
